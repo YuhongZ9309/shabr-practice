@@ -2,8 +2,14 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.home {
-    background-color: #F7BC6D !important;
+
+/*section*/
+.section {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
 }
 
 /*slogan*/
@@ -36,17 +42,6 @@ body {
 }
 
 
-/*home*/
-.section {
-    /*background-color: white;*/
-    color: black;
-}
-
-
-/*info*/
-/*.info .col-md-6 {*/
-/*    padding: 15px;*/
-/*}*/
 
 /*gallery*/
 .carousel-inner img {
@@ -54,14 +49,6 @@ body {
       height: 100%;
   }
 
-/*gallery*/
-.section-gallery {
-    width: 100%;
-    padding-top: 50px;
-    padding-bottom: 50px;
-
-
-}
 
 /*testimonal*/
 .card{
