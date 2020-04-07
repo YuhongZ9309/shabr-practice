@@ -61,6 +61,11 @@ p {
     margin: 30px;
     padding: 10px;
 }
+.body-text {
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+}
+
 
 .title {
     font-size: 2rem;
