@@ -73,6 +73,9 @@ p {
 @media (min-width: 767px) {
     .title {
         font-size: 2.5rem;
+}
+}
 
-    }
+.section-contact .card-body {
+    text-align: center;
 }
